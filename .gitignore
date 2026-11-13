@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.local
+
+# Data / secrets (ห้าม commit)
+data/
+*.sqlite
+*.db
+secrets/
+*.pem
+*.key
+
+# Eval reports (สร้างใหม่ได้)
+evals/reports/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
