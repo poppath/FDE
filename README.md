@@ -76,6 +76,7 @@ PHASE 5  Expertise            80h    สัปดาห์ 41–52    capstone, 
 - [`docs/15-module-14-positioning-interview.md`](docs/15-module-14-positioning-interview.md) — Module 14: portfolio, CV, interview loop
 - [`docs/16-assessment-rubrics.md`](docs/16-assessment-rubrics.md) — rubric ให้คะแนนตัวเองทุก module
 - [`docs/99-resources-glossary.md`](docs/99-resources-glossary.md) — แหล่งเรียนฟรี + glossary ไทย
+- [`docs/20-study-resources.md`](docs/20-study-resources.md) — **แหล่งเรียนคัดสรร ~70 รายการพร้อมลิงก์** จัดกลุ่มตาม 5 Phase + แหล่งไทย + ตารางเรียนที่แนะนำ
 
 ### Templates (ใช้จริงในงาน)
 - [`templates/my-fde-profile.md`](templates/my-fde-profile.md) — แบบฟอร์ม Module 0
